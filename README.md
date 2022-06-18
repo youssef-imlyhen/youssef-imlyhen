@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [langtrainer](https://github.com/youssef-imlyhen/lantrainer)
 
-- 🌱 I’m currently learning **Typescript, CI/CD PipeLines, Next.js**
+- 🌱 I’m currently learning **Typescript, CI/CD PipeLines, Next.js, TDD, Micro-Services and Micro-Frontend**
 
 - 👨‍💻 All of my projects are available at [ysf-imly.me](ysf-imly.me)
 
