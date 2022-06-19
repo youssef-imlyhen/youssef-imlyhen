@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **ysf.imly@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1q9bjwlAHSHi2LaK1ciCJftfk_o3DPhaQn6U-Y6vq5ck/edit?usp=sharing](https://docs.google.com/document/d/1q9bjwlAHSHi2LaK1ciCJftfk_o3DPhaQn6U-Y6vq5ck/edit?usp=sharing)
 
 - ⚡ Fun but true fact **3 years ago, i got my first PC. 3 years from now i'll save humanity from GPT-5 using CSS**
 
