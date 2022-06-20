@@ -12,7 +12,7 @@
 - 📫 How to reach me **ysf.imly@gmail.com**
 
 
-- ⚡ Fun but true fact **3 years ago, i got my first PC. 3 years from now i'll save humanity from GPT-5 using CSS**
+- ⚡ Fun but true fact **3 years ago, I wrote my first "hello world". 3 years from now i'll save humanity from GPT-5 using CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
