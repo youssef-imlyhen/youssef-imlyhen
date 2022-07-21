@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm youssef</h1>
 <h3 align="center">A passionate frontend developer from morocco</h3>
 
-- 🔭 I’m currently working on [langtrainer](https://github.com/youssef-imlyhen/lantrainer)
+- 🔭 I’m currently working on [langtrainer](https://bit.ly/3csfITu)
 
 - 🌱 I’m currently learning **Typescript, CI/CD PipeLines, Next.js, TDD, Micro-Services and Micro-Frontend**
-
-- 👨‍💻 All of my projects are available at [ysf-imly.me](ysf-imly.me)
 
 - 📝 I regularly write articles on [https://dev.to/youssefimlyhen](https://dev.to/youssefimlyhen)
 
