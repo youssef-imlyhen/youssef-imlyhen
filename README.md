@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, CI/CD PipeLines, Next.js, TDD, Micro-Services and Micro-Frontend**
 
-- 📝 I regularly write articles on [https://dev.to/youssefimlyhen](https://dev.to/youssefimlyhen)
+- 📝 I regularly write articles on [ysf-imly.me](ysf-imly.me)
 
 - 📫 How to reach me **ysf.imly@gmail.com**
 
