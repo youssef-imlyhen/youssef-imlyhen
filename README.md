@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm youssef</h1>
 <h3 align="center">A passionate frontend developer from morocco</h3>
 
-- 🔭 I’m currently working on [langtrainer](https://bit.ly/3csfITu)
+- 🔭 I’m currently working on [langtrainer](https://bit.ly/3okX4zC)
 
 - 🌱 I’m currently learning **Typescript, CI/CD PipeLines, Next.js, TDD, Micro-Services and Micro-Frontend**
 
