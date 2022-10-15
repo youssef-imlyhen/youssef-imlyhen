@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [ysf-imly.me](ysf-imly.me)
 
-- 📫 How to reach me **ysf.imly@gmail.com**
-
 
 
 <h3 align="left">Connect with me:</h3>
