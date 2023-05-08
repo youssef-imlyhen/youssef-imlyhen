@@ -1,5 +1,6 @@
+(updated on Aug 2022)
 <h1 align="center">Hi 👋, I'm youssef</h1>
-<h3 align="center">A passionate frontend developer from morocco</h3>
+<h3 align="center">A developer</h3>
 
 - 🔭 I’m currently working on [langtrainer](https://bit.ly/3okX4zC)
 
